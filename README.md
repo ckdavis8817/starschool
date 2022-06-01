@@ -1,0 +1,2 @@
+# starschool
+GitHub Pages
